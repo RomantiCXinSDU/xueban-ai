@@ -86,13 +86,11 @@ git clone https://github.com/RomantiCXinSDU/xueban-ai.git
 cd xueban-ai
 ```
 
-> 💡 如果你是项目合作者，先让项目主人去 GitHub 仓库 → Settings → Collaborators → 把你的 GitHub 账号加进去，否则你只能看不能推代码。
-
 **方式二：直接下载压缩包（不想装 Git 的话）**
 
 打开 https://github.com/RomantiCXinSDU/xueban-ai ，点绿色 **Code** 按钮 → **Download ZIP**，解压到任意位置。
 
-> ⚠️ 方式二没法上传你的修改回 GitHub，建议还是学一下方式一。
+> 💡 两种方式都行，选你觉得简单的。如果后面想用 Git 做本地版本管理，推荐方式一。
 
 ---
 
@@ -176,10 +174,7 @@ npm start
 每次开始写代码的固定动作：
 
 ```bash
-# 1. 先拉取最新代码（如果有人在协作）
-git pull
-
-# 2. 启动后端（backend 文件夹下）
+# 启动后端（backend 文件夹下）
 npm start
 ```
 
@@ -320,29 +315,31 @@ taskkill /PID 上面查到的数字 /F
 
 ---
 
-## 10. 把你的修改上传回 GitHub
+## 10. 关于保存你的修改（本地备份）
 
-写完代码要保存到 GitHub，四步走：
+这个仓库是**只读**的，你改了代码不用上传回 GitHub，就在自己电脑上改就行。但**一定要勤备份**，避免电脑崩了白干：
+
+### 方式 A：Git 本地版本记录（推荐）
+
+每次改完一批功能，在命令行里执行：
 
 ```bash
-# 1. 看看改了哪些文件
-git status
-
-# 2. 把改动加入暂存区（. 表示全部）
 git add .
-
-# 3. 提交，引号里写清楚你做了什么
-git commit -m "修复了闪卡页面的显示bug"
-
-# 4. 推送到 GitHub
-git push
+git commit -m "这里写你这次改了什么，比如：修复了闪卡页面的显示bug"
 ```
 
-下次开始工作前先 `git pull` 拉最新代码。
+> 💡 这样就把当前进度存进了本地 Git 仓库（纯本地，和 GitHub 无关）。改坏了随时可以回到上一次提交：
+> ```bash
+> git --no-pager log --oneline        # 查看所有提交记录
+> git checkout -- .                   # 把所有文件恢复到最近一次提交的状态（慎用！）
+> git reset --hard 提交哈希           # 回到某次具体提交（慎用！会丢改动）
+> ```
 
-> ⚠️ **千万不要**把这些文件上传到 GitHub：`.env`（有密钥）、`node_modules/`、`logs/`。放心，`.gitignore` 已经配置好会自动忽略它们，你只需要正常 `git add .` 就行。
+### 方式 B：手动拷贝
 
-> 💡 **进阶建议**：多人协作时别直接往 main 分支推，先建自己的分支（`git checkout -b 你的名字-功能名`），改完在 GitHub 上发 Pull Request 让项目主人审核。
+嫌 Git 麻烦？每隔几天把整个项目文件夹复制一份，加个日期后缀，比如 `xueban-ai-backup-1015`，存到别的盘或网盘里就行。
+
+> ⚠️ **千万不要**把这些文件上传到任何公开平台：`.env`（有密钥）、`node_modules/`、`logs/`。如果以后想把你的版本也传到 GitHub 做存档，`.gitignore` 已经配好了会自动忽略它们。
 
 ---
 
