@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+npm-debug.log*
+
+# Database
+*.db
+*.sqlite
+database/*.db
+
+# Uploads
+uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+coverage/
+
+# Temp / Office lock files
+~$*
+*.tmp
+
+# Office docs (keep original .doc/.docx/.pdf — comment out if needed)
+# *.doc
+# *.docx
+# *.pdf

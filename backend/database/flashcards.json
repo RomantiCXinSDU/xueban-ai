@@ -1,0 +1,4044 @@
+{
+  "default": [
+    {
+      "id": "deck_1782051805566",
+      "userId": "default",
+      "title": "新的 Notebook 闪卡",
+      "cards": [
+        {
+          "id": "card_1782051805566_0",
+          "front": "Page",
+          "back": "1",
+          "tags": [],
+          "hint": "",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:23:38.588Z",
+          "createdAt": "2026-06-21T14:23:25.566Z"
+        },
+        {
+          "id": "card_1782051805566_1",
+          "front": "n. 狂饮或滥吃的人； 高油耗汽车（",
+          "back": "gas",
+          "tags": [],
+          "hint": "",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:23:42.283Z",
+          "createdAt": "2026-06-21T14:23:25.566Z"
+        },
+        {
+          "id": "card_1782051805566_2",
+          "front": "Page",
+          "back": "2",
+          "tags": [],
+          "hint": "",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:23:44.748Z",
+          "createdAt": "2026-06-21T14:23:25.566Z"
+        },
+        {
+          "id": "card_1782051805566_3",
+          "front": "Page",
+          "back": "3",
+          "tags": [],
+          "hint": "",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:23:25.566Z"
+        }
+      ],
+      "createdAt": "2026-06-21T14:23:25.566Z",
+      "stats": {
+        "total": 4,
+        "mastered": 3,
+        "learning": 0,
+        "new": 1
+      },
+      "deleted": true
+    },
+    {
+      "id": "deck_1782051830963",
+      "userId": "default",
+      "title": "新的 Notebook 闪卡",
+      "cards": [
+        {
+          "id": "card_1782051830962_0",
+          "front": "Page",
+          "back": "1",
+          "tags": [],
+          "hint": "",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:23:50.962Z"
+        },
+        {
+          "id": "card_1782051830962_1",
+          "front": "n. 狂饮或滥吃的人； 高油耗汽车（",
+          "back": "gas",
+          "tags": [],
+          "hint": "",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:23:50.962Z"
+        },
+        {
+          "id": "card_1782051830963_2",
+          "front": "Page",
+          "back": "2",
+          "tags": [],
+          "hint": "",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:23:50.963Z"
+        },
+        {
+          "id": "card_1782051830963_3",
+          "front": "Page",
+          "back": "3",
+          "tags": [],
+          "hint": "",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:23:50.963Z"
+        }
+      ],
+      "createdAt": "2026-06-21T14:23:50.963Z",
+      "stats": {
+        "total": 4,
+        "mastered": 0,
+        "learning": 0,
+        "new": 4
+      },
+      "deleted": true
+    },
+    {
+      "id": "deck_1782051836694",
+      "userId": "default",
+      "title": "新的 Notebook 闪卡",
+      "cards": [
+        {
+          "id": "quiz_1782051836694_0",
+          "question": "Page 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "1",
+          "explanation": "Page：1",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T14:23:56.694Z"
+        },
+        {
+          "id": "quiz_1782051836694_1",
+          "question": "n. 狂饮或滥吃的人； 高油耗汽车（ 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "gas",
+          "explanation": "n. 狂饮或滥吃的人； 高油耗汽车（：gas",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T14:23:56.694Z"
+        },
+        {
+          "id": "quiz_1782051836694_2",
+          "question": "Page 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "2",
+          "explanation": "Page：2",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T14:23:56.694Z"
+        },
+        {
+          "id": "quiz_1782051836694_3",
+          "question": "Page 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "3",
+          "explanation": "Page：3",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T14:23:56.694Z"
+        }
+      ],
+      "createdAt": "2026-06-21T14:23:56.694Z",
+      "stats": {
+        "total": 4,
+        "mastered": 0,
+        "learning": 0,
+        "new": 4
+      },
+      "deleted": true
+    },
+    {
+      "id": "deck_1782052049749",
+      "userId": "default",
+      "title": "新的 Notebook 闪卡",
+      "cards": [
+        {
+          "id": "card_1782052049748_0",
+          "front": "dysfunction",
+          "back": "/dɪs'fʌŋkʃn/ n. （身体）功能障碍, （社会、家庭等内部 的）关系失衡",
+          "tags": [],
+          "hint": "/dɪs'fʌŋkʃn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049748_1",
+          "front": "pollster",
+          "back": "/'poʊlstər/ n. 民意测验主办人，民意调查员",
+          "tags": [],
+          "hint": "/'poʊlstər/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049748_2",
+          "front": "infant",
+          "back": "/'ɪnfənt/ n. 婴儿；幼儿 adj. 婴儿的；初期的",
+          "tags": [],
+          "hint": "/'ɪnfənt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049748_3",
+          "front": "political",
+          "back": "/pə'lɪtɪkl/ adj. 政治的；政党的，派系斗争的；有政治头 脑的",
+          "tags": [],
+          "hint": "/pə'lɪtɪkl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049748_4",
+          "front": "inanimate",
+          "back": "/ɪn'ænɪmət/ adj. 无生命的，死的，像已死的",
+          "tags": [],
+          "hint": "/ɪn'ænɪmət/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049748_5",
+          "front": "microblog",
+          "back": "/ˈmaɪkroʊblɑːɡ/ n. 微博",
+          "tags": [],
+          "hint": "/ˈmaɪkroʊblɑːɡ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049748_6",
+          "front": "surrogate",
+          "back": "/'sɜːrəɡət/ adj. 替代的，代用的 n. 代理人，代替，〈英〉（宗教法庭上）主教 代表，代用人物",
+          "tags": [],
+          "hint": "/'sɜːrəɡət/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049748_7",
+          "front": "complaint",
+          "back": "/kəm'pleɪnt/ n. 抱怨；埋怨；投诉；控告；（不严重的）疾 病",
+          "tags": [],
+          "hint": "/kəm'pleɪnt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049748_8",
+          "front": "spectrum",
+          "back": "/'spektrəm/ n. 光谱，声谱，频谱；范围，幅度；系列，层 次",
+          "tags": [],
+          "hint": "/'spektrəm/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049748_9",
+          "front": "verbiage",
+          "back": "/'vɜːbiɪdʒ/ n. 冗词，赘语，晦涩",
+          "tags": [],
+          "hint": "/'vɜːbiɪdʒ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049748_10",
+          "front": "caregiver",
+          "back": "/'kerɡɪvər/ n. 照料家居老弱病患者的人, 家庭护理员, 看护 人",
+          "tags": [],
+          "hint": "/'kerɡɪvər/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049748_11",
+          "front": "tweet",
+          "back": "/twiːt/ v. (小鸟)吱吱地叫 n. （小鸟的）唧啾, 运用推特社交网络发送的 信息",
+          "tags": [],
+          "hint": "/twiːt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049748_12",
+          "front": "spur",
+          "back": "/spɜːr/ n. 刺激，激励，鞭策；踢马刺，靴刺；骨刺； 山嘴，尖坡 v. 刺激，激励，促进，鞭策",
+          "tags": [],
+          "hint": "/spɜːr/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049748_13",
+          "front": "pertain",
+          "back": "/pər'teɪn/ v. 关于，与...相关，适用（于）",
+          "tags": [],
+          "hint": "/pər'teɪn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.748Z"
+        },
+        {
+          "id": "card_1782052049749_14",
+          "front": "sophisticated",
+          "back": "/sə'fɪstɪkeɪtɪd/ adj. 老于世故的，见过世面的；精密的，复杂 的；先进的；水平高的，在行的",
+          "tags": [],
+          "hint": "/sə'fɪstɪkeɪtɪd/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_15",
+          "front": "sentiment",
+          "back": "/'sentɪmənt/ n. 观点，看法，情绪；（过于）伤感",
+          "tags": [],
+          "hint": "/'sentɪmənt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_16",
+          "front": "bathtub",
+          "back": "/bæθtʌb/ n. 浴缸，浴盆",
+          "tags": [],
+          "hint": "/bæθtʌb/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_17",
+          "front": "slump",
+          "back": "/slʌmp/ v. 猛跌，重重地坐下（或倒下） n. 衰退，锐减，萧条期",
+          "tags": [],
+          "hint": "/slʌmp/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_18",
+          "front": "rinse",
+          "back": "/rɪns/ v. （用清水）冲洗，洗涮；漂洗 n. 漂洗；冲洗；染发剂；漱口液",
+          "tags": [],
+          "hint": "/rɪns/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_19",
+          "front": "correlation",
+          "back": "/ˌkɔːrə'leɪʃn/ n. 相互关系，相关，关联",
+          "tags": [],
+          "hint": "/ˌkɔːrə'leɪʃn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_20",
+          "front": "presence",
+          "back": "/'prezns/ n. 存在；出席，在场；风度，风采",
+          "tags": [],
+          "hint": "/'prezns/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_21",
+          "front": "subtle",
+          "back": "/'sʌtl/ adj. 不易察觉的；微妙的；机智的；狡猾的； 巧妙的",
+          "tags": [],
+          "hint": "/'sʌtl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_22",
+          "front": "surveillance",
+          "back": "/sɜːr'veɪləns/ n. （对犯罪嫌疑人或可能发生犯罪的地方的） 监视",
+          "tags": [],
+          "hint": "/sɜːr'veɪləns/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_23",
+          "front": "transmission",
+          "back": "/træns'mɪʃn/ n. 传输，传送；播送，播送的内容；传动装置",
+          "tags": [],
+          "hint": "/træns'mɪʃn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_24",
+          "front": "disposal",
+          "back": "/dɪ'spoʊzl/ n. 处理；解决；清除；去掉；赠送；转让；出 售；排列；布置",
+          "tags": [],
+          "hint": "/dɪ'spoʊzl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_25",
+          "front": "combat",
+          "back": "/'kɑːmbæt/ n. 搏斗；打仗；战斗 v. 防止；减轻；战斗，与…搏斗",
+          "tags": [],
+          "hint": "/'kɑːmbæt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_26",
+          "front": "distinguishable",
+          "back": "/dɪ'stɪŋɡwɪʃəbl/ adj. 可区别的，（通过耳，目等）可以辨认出 的",
+          "tags": [],
+          "hint": "/dɪ'stɪŋɡwɪʃəbl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_27",
+          "front": "lethality",
+          "back": "/lɪ'θælətɪ/ n. 致死现象, 杀伤性, 死亡率",
+          "tags": [],
+          "hint": "/lɪ'θælətɪ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_28",
+          "front": "parameter",
+          "back": "/pə'ræmɪtər/ n. 参数，范围，决定因素，规范",
+          "tags": [],
+          "hint": "/pə'ræmɪtər/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_29",
+          "front": "computational",
+          "back": "/ˌkɑːmpju'teɪʃənl/ adj. 使用计算机的, 与计算机有关的",
+          "tags": [],
+          "hint": "/ˌkɑːmpju'teɪʃənl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_30",
+          "front": "metaphor",
+          "back": "/ˈmetəfər/ n. 隐喻，暗喻",
+          "tags": [],
+          "hint": "/ˈmetəfər/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_31",
+          "front": "discriminate",
+          "back": "/dɪ'skrɪmɪneɪt/ v. 歧视，区别，区分，辨别 adj. 有分辨能力的，显著的，〈古〉明确的",
+          "tags": [],
+          "hint": "/dɪ'skrɪmɪneɪt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_32",
+          "front": "universal",
+          "back": "/ˌjuːnɪ'vɜːrsl/ adj. 普遍的，通用的；全世界的，共同的 n. 普遍特征，普遍原则",
+          "tags": [],
+          "hint": "/ˌjuːnɪ'vɜːrsl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_33",
+          "front": "combatant",
+          "back": "/kəmˈbætnt/ n. 参战者，战斗人员，战士 adj. （参加）战斗的，好斗的",
+          "tags": [],
+          "hint": "/kəmˈbætnt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_34",
+          "front": "symbolize",
+          "back": "/'sɪmbəlaɪz/ v. 象征，是…的象征，代表",
+          "tags": [],
+          "hint": "/'sɪmbəlaɪz/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_35",
+          "front": "lethal",
+          "back": "/'liːθl/ adj. 致命的，可致死的，危害极大的，破坏性 极大的",
+          "tags": [],
+          "hint": "/'liːθl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_36",
+          "front": "phobia",
+          "back": "/'foʊbiə/ n. 恐怖症，对…的恐惧症",
+          "tags": [],
+          "hint": "/'foʊbiə/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_37",
+          "front": "estimate",
+          "back": "/ˈestɪmeɪt/ v. 估计，估价 n. 估计，估价",
+          "tags": [],
+          "hint": "/ˈestɪmeɪt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_38",
+          "front": "irrational",
+          "back": "/ɪ'ræʃənl/ adj. 不理性的，没有道理的；不合逻辑的 n. 无理数，无理性的生物",
+          "tags": [],
+          "hint": "/ɪ'ræʃənl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_39",
+          "front": "hypnophobia",
+          "back": "/ˌhɪpnə'foʊbɪə/ n. [心]睡眠恐怖",
+          "tags": [],
+          "hint": "/ˌhɪpnə'foʊbɪə/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_40",
+          "front": "manure",
+          "back": "/mə'nʊr/ n. 肥料，粪肥 v. 给…施肥",
+          "tags": [],
+          "hint": "/mə'nʊr/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_41",
+          "front": "indigenous",
+          "back": "/ɪn'dɪdʒənəs/ adj. 土著的，原产的，本乡本土的，土生土长 的 n. 本土点，乡土种，本地种",
+          "tags": [],
+          "hint": "/ɪn'dɪdʒənəs/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_42",
+          "front": "demolish",
+          "back": "/dɪ'mɑːlɪʃ/ v. 拆毁，破坏，驳倒（观点或理论），轻易而 彻底地打败",
+          "tags": [],
+          "hint": "/dɪ'mɑːlɪʃ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_43",
+          "front": "unanimous",
+          "back": "/ju'nænɪməs/ adj. 一致的，一致同意的；意见一致的",
+          "tags": [],
+          "hint": "/ju'nænɪməs/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_44",
+          "front": "crusade",
+          "back": "/kruː'seɪd/ n. （长期坚定不移的）斗争，运动；（中世纪 的）十字军东征 v. 长期坚定不移地奋斗",
+          "tags": [],
+          "hint": "/kruː'seɪd/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_45",
+          "front": "mobilize",
+          "back": "/'moʊbəlaɪz/ v. 调动；动员；组织；鼓动",
+          "tags": [],
+          "hint": "/'moʊbəlaɪz/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_46",
+          "front": "supercharge",
+          "back": "/ˌsuːpə'tʃɑːdʒ/ v. 增加(…的)负荷, 【机】(使)增压",
+          "tags": [],
+          "hint": "/ˌsuːpə'tʃɑːdʒ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_47",
+          "front": "veterinary",
+          "back": "/ˈvetərəneri/ adj. 兽医的 n. 兽医",
+          "tags": [],
+          "hint": "/ˈvetərəneri/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_48",
+          "front": "magma",
+          "back": "/'mæɡmə/ n. 岩浆",
+          "tags": [],
+          "hint": "/'mæɡmə/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        },
+        {
+          "id": "card_1782052049749_49",
+          "front": "intimate",
+          "back": "/'ɪntɪmət/ adj. 亲密的；密切的；私人的 v. 透露；（间接）表示；暗示",
+          "tags": [],
+          "hint": "/'ɪntɪmət/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:27:29.749Z"
+        }
+      ],
+      "createdAt": "2026-06-21T14:27:29.749Z",
+      "stats": {
+        "total": 50,
+        "mastered": 0,
+        "learning": 0,
+        "new": 50
+      },
+      "deleted": true
+    },
+    {
+      "id": "deck_1782052084591",
+      "userId": "default",
+      "title": "新的 Notebook 闪卡",
+      "cards": [
+        {
+          "id": "card_1782052084591_0",
+          "front": "dysfunction",
+          "back": "/dɪs'fʌŋkʃn/ n. （身体）功能障碍, （社会、家庭等内部 的）关系失衡",
+          "tags": [],
+          "hint": "/dɪs'fʌŋkʃn/",
+          "mastery": 0,
+          "reviewCount": 1,
+          "nextReview": "2026-06-21T14:29:24.508Z",
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_1",
+          "front": "pollster",
+          "back": "/'poʊlstər/ n. 民意测验主办人，民意调查员",
+          "tags": [],
+          "hint": "/'poʊlstər/",
+          "mastery": 4,
+          "reviewCount": 2,
+          "nextReview": "2026-06-24T14:30:30.303Z",
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_2",
+          "front": "infant",
+          "back": "/'ɪnfənt/ n. 婴儿；幼儿 adj. 婴儿的；初期的",
+          "tags": [],
+          "hint": "/'ɪnfənt/",
+          "mastery": 4,
+          "reviewCount": 2,
+          "nextReview": "2026-06-24T14:30:33.780Z",
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_3",
+          "front": "political",
+          "back": "/pə'lɪtɪkl/ adj. 政治的；政党的，派系斗争的；有政治头 脑的",
+          "tags": [],
+          "hint": "/pə'lɪtɪkl/",
+          "mastery": 4,
+          "reviewCount": 2,
+          "nextReview": "2026-06-24T14:30:35.972Z",
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_4",
+          "front": "inanimate",
+          "back": "/ɪn'ænɪmət/ adj. 无生命的，死的，像已死的",
+          "tags": [],
+          "hint": "/ɪn'ænɪmət/",
+          "mastery": 4,
+          "reviewCount": 2,
+          "nextReview": "2026-06-24T14:30:37.644Z",
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_5",
+          "front": "microblog",
+          "back": "/ˈmaɪkroʊblɑːɡ/ n. 微博",
+          "tags": [],
+          "hint": "/ˈmaɪkroʊblɑːɡ/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:28:40.877Z",
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_6",
+          "front": "surrogate",
+          "back": "/'sɜːrəɡət/ adj. 替代的，代用的 n. 代理人，代替，〈英〉（宗教法庭上）主教 代表，代用人物",
+          "tags": [],
+          "hint": "/'sɜːrəɡət/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:28:42.245Z",
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_7",
+          "front": "complaint",
+          "back": "/kəm'pleɪnt/ n. 抱怨；埋怨；投诉；控告；（不严重的）疾 病",
+          "tags": [],
+          "hint": "/kəm'pleɪnt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_8",
+          "front": "spectrum",
+          "back": "/'spektrəm/ n. 光谱，声谱，频谱；范围，幅度；系列，层 次",
+          "tags": [],
+          "hint": "/'spektrəm/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_9",
+          "front": "verbiage",
+          "back": "/'vɜːbiɪdʒ/ n. 冗词，赘语，晦涩",
+          "tags": [],
+          "hint": "/'vɜːbiɪdʒ/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:30:40.725Z",
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_10",
+          "front": "caregiver",
+          "back": "/'kerɡɪvər/ n. 照料家居老弱病患者的人, 家庭护理员, 看护 人",
+          "tags": [],
+          "hint": "/'kerɡɪvər/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:30:41.853Z",
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_11",
+          "front": "tweet",
+          "back": "/twiːt/ v. (小鸟)吱吱地叫 n. （小鸟的）唧啾, 运用推特社交网络发送的 信息",
+          "tags": [],
+          "hint": "/twiːt/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:30:42.923Z",
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_12",
+          "front": "spur",
+          "back": "/spɜːr/ n. 刺激，激励，鞭策；踢马刺，靴刺；骨刺； 山嘴，尖坡 v. 刺激，激励，促进，鞭策",
+          "tags": [],
+          "hint": "/spɜːr/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:30:43.969Z",
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_13",
+          "front": "pertain",
+          "back": "/pər'teɪn/ v. 关于，与...相关，适用（于）",
+          "tags": [],
+          "hint": "/pər'teɪn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_14",
+          "front": "sophisticated",
+          "back": "/sə'fɪstɪkeɪtɪd/ adj. 老于世故的，见过世面的；精密的，复杂 的；先进的；水平高的，在行的",
+          "tags": [],
+          "hint": "/sə'fɪstɪkeɪtɪd/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_15",
+          "front": "sentiment",
+          "back": "/'sentɪmənt/ n. 观点，看法，情绪；（过于）伤感",
+          "tags": [],
+          "hint": "/'sentɪmənt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_16",
+          "front": "bathtub",
+          "back": "/bæθtʌb/ n. 浴缸，浴盆",
+          "tags": [],
+          "hint": "/bæθtʌb/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_17",
+          "front": "slump",
+          "back": "/slʌmp/ v. 猛跌，重重地坐下（或倒下） n. 衰退，锐减，萧条期",
+          "tags": [],
+          "hint": "/slʌmp/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_18",
+          "front": "rinse",
+          "back": "/rɪns/ v. （用清水）冲洗，洗涮；漂洗 n. 漂洗；冲洗；染发剂；漱口液",
+          "tags": [],
+          "hint": "/rɪns/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_19",
+          "front": "correlation",
+          "back": "/ˌkɔːrə'leɪʃn/ n. 相互关系，相关，关联",
+          "tags": [],
+          "hint": "/ˌkɔːrə'leɪʃn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_20",
+          "front": "presence",
+          "back": "/'prezns/ n. 存在；出席，在场；风度，风采",
+          "tags": [],
+          "hint": "/'prezns/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_21",
+          "front": "subtle",
+          "back": "/'sʌtl/ adj. 不易察觉的；微妙的；机智的；狡猾的； 巧妙的",
+          "tags": [],
+          "hint": "/'sʌtl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_22",
+          "front": "surveillance",
+          "back": "/sɜːr'veɪləns/ n. （对犯罪嫌疑人或可能发生犯罪的地方的） 监视",
+          "tags": [],
+          "hint": "/sɜːr'veɪləns/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_23",
+          "front": "transmission",
+          "back": "/træns'mɪʃn/ n. 传输，传送；播送，播送的内容；传动装置",
+          "tags": [],
+          "hint": "/træns'mɪʃn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_24",
+          "front": "disposal",
+          "back": "/dɪ'spoʊzl/ n. 处理；解决；清除；去掉；赠送；转让；出 售；排列；布置",
+          "tags": [],
+          "hint": "/dɪ'spoʊzl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_25",
+          "front": "combat",
+          "back": "/'kɑːmbæt/ n. 搏斗；打仗；战斗 v. 防止；减轻；战斗，与…搏斗",
+          "tags": [],
+          "hint": "/'kɑːmbæt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_26",
+          "front": "distinguishable",
+          "back": "/dɪ'stɪŋɡwɪʃəbl/ adj. 可区别的，（通过耳，目等）可以辨认出 的",
+          "tags": [],
+          "hint": "/dɪ'stɪŋɡwɪʃəbl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_27",
+          "front": "lethality",
+          "back": "/lɪ'θælətɪ/ n. 致死现象, 杀伤性, 死亡率",
+          "tags": [],
+          "hint": "/lɪ'θælətɪ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_28",
+          "front": "parameter",
+          "back": "/pə'ræmɪtər/ n. 参数，范围，决定因素，规范",
+          "tags": [],
+          "hint": "/pə'ræmɪtər/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_29",
+          "front": "computational",
+          "back": "/ˌkɑːmpju'teɪʃənl/ adj. 使用计算机的, 与计算机有关的",
+          "tags": [],
+          "hint": "/ˌkɑːmpju'teɪʃənl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_30",
+          "front": "metaphor",
+          "back": "/ˈmetəfər/ n. 隐喻，暗喻",
+          "tags": [],
+          "hint": "/ˈmetəfər/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_31",
+          "front": "discriminate",
+          "back": "/dɪ'skrɪmɪneɪt/ v. 歧视，区别，区分，辨别 adj. 有分辨能力的，显著的，〈古〉明确的",
+          "tags": [],
+          "hint": "/dɪ'skrɪmɪneɪt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_32",
+          "front": "universal",
+          "back": "/ˌjuːnɪ'vɜːrsl/ adj. 普遍的，通用的；全世界的，共同的 n. 普遍特征，普遍原则",
+          "tags": [],
+          "hint": "/ˌjuːnɪ'vɜːrsl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_33",
+          "front": "combatant",
+          "back": "/kəmˈbætnt/ n. 参战者，战斗人员，战士 adj. （参加）战斗的，好斗的",
+          "tags": [],
+          "hint": "/kəmˈbætnt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_34",
+          "front": "symbolize",
+          "back": "/'sɪmbəlaɪz/ v. 象征，是…的象征，代表",
+          "tags": [],
+          "hint": "/'sɪmbəlaɪz/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_35",
+          "front": "lethal",
+          "back": "/'liːθl/ adj. 致命的，可致死的，危害极大的，破坏性 极大的",
+          "tags": [],
+          "hint": "/'liːθl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_36",
+          "front": "phobia",
+          "back": "/'foʊbiə/ n. 恐怖症，对…的恐惧症",
+          "tags": [],
+          "hint": "/'foʊbiə/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_37",
+          "front": "estimate",
+          "back": "/ˈestɪmeɪt/ v. 估计，估价 n. 估计，估价",
+          "tags": [],
+          "hint": "/ˈestɪmeɪt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_38",
+          "front": "irrational",
+          "back": "/ɪ'ræʃənl/ adj. 不理性的，没有道理的；不合逻辑的 n. 无理数，无理性的生物",
+          "tags": [],
+          "hint": "/ɪ'ræʃənl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_39",
+          "front": "hypnophobia",
+          "back": "/ˌhɪpnə'foʊbɪə/ n. [心]睡眠恐怖",
+          "tags": [],
+          "hint": "/ˌhɪpnə'foʊbɪə/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_40",
+          "front": "manure",
+          "back": "/mə'nʊr/ n. 肥料，粪肥 v. 给…施肥",
+          "tags": [],
+          "hint": "/mə'nʊr/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_41",
+          "front": "indigenous",
+          "back": "/ɪn'dɪdʒənəs/ adj. 土著的，原产的，本乡本土的，土生土长 的 n. 本土点，乡土种，本地种",
+          "tags": [],
+          "hint": "/ɪn'dɪdʒənəs/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_42",
+          "front": "demolish",
+          "back": "/dɪ'mɑːlɪʃ/ v. 拆毁，破坏，驳倒（观点或理论），轻易而 彻底地打败",
+          "tags": [],
+          "hint": "/dɪ'mɑːlɪʃ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_43",
+          "front": "unanimous",
+          "back": "/ju'nænɪməs/ adj. 一致的，一致同意的；意见一致的",
+          "tags": [],
+          "hint": "/ju'nænɪməs/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_44",
+          "front": "crusade",
+          "back": "/kruː'seɪd/ n. （长期坚定不移的）斗争，运动；（中世纪 的）十字军东征 v. 长期坚定不移地奋斗",
+          "tags": [],
+          "hint": "/kruː'seɪd/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_45",
+          "front": "mobilize",
+          "back": "/'moʊbəlaɪz/ v. 调动；动员；组织；鼓动",
+          "tags": [],
+          "hint": "/'moʊbəlaɪz/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_46",
+          "front": "supercharge",
+          "back": "/ˌsuːpə'tʃɑːdʒ/ v. 增加(…的)负荷, 【机】(使)增压",
+          "tags": [],
+          "hint": "/ˌsuːpə'tʃɑːdʒ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_47",
+          "front": "veterinary",
+          "back": "/ˈvetərəneri/ adj. 兽医的 n. 兽医",
+          "tags": [],
+          "hint": "/ˈvetərəneri/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_48",
+          "front": "magma",
+          "back": "/'mæɡmə/ n. 岩浆",
+          "tags": [],
+          "hint": "/'mæɡmə/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        },
+        {
+          "id": "card_1782052084591_49",
+          "front": "intimate",
+          "back": "/'ɪntɪmət/ adj. 亲密的；密切的；私人的 v. 透露；（间接）表示；暗示",
+          "tags": [],
+          "hint": "/'ɪntɪmət/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:28:04.591Z"
+        }
+      ],
+      "createdAt": "2026-06-21T14:28:04.591Z",
+      "stats": {
+        "total": 50,
+        "mastered": 10,
+        "learning": 0,
+        "new": 40
+      },
+      "deleted": true
+    },
+    {
+      "id": "deck_1782052443797",
+      "userId": "default",
+      "title": "新的 Notebook 闪卡",
+      "cards": [
+        {
+          "id": "card_1782052443797_0",
+          "front": "dysfunction",
+          "back": "/dɪs'fʌŋkʃn/ n. （身体）功能障碍, （社会、家庭等内部 的）关系失衡",
+          "tags": [],
+          "hint": "/dɪs'fʌŋkʃn/",
+          "mastery": 4,
+          "reviewCount": 2,
+          "nextReview": "2026-06-24T14:40:56.363Z",
+          "createdAt": "2026-06-21T14:34:03.797Z"
+        },
+        {
+          "id": "card_1782052443797_1",
+          "front": "pollster",
+          "back": "/'poʊlstər/ n. 民意测验主办人，民意调查员",
+          "tags": [],
+          "hint": "/'poʊlstər/",
+          "mastery": 4,
+          "reviewCount": 2,
+          "nextReview": "2026-06-24T14:40:58.157Z",
+          "createdAt": "2026-06-21T14:34:03.797Z"
+        },
+        {
+          "id": "card_1782052443797_2",
+          "front": "infant",
+          "back": "/'ɪnfənt/ n. 婴儿；幼儿 adj. 婴儿的；初期的",
+          "tags": [],
+          "hint": "/'ɪnfənt/",
+          "mastery": 4,
+          "reviewCount": 2,
+          "nextReview": "2026-06-24T14:40:59.287Z",
+          "createdAt": "2026-06-21T14:34:03.797Z"
+        },
+        {
+          "id": "card_1782052443797_3",
+          "front": "political",
+          "back": "/pə'lɪtɪkl/ adj. 政治的；政党的，派系斗争的；有政治头 脑的",
+          "tags": [],
+          "hint": "/pə'lɪtɪkl/",
+          "mastery": 4,
+          "reviewCount": 2,
+          "nextReview": "2026-06-24T14:41:00.106Z",
+          "createdAt": "2026-06-21T14:34:03.797Z"
+        },
+        {
+          "id": "card_1782052443797_4",
+          "front": "inanimate",
+          "back": "/ɪn'ænɪmət/ adj. 无生命的，死的，像已死的",
+          "tags": [],
+          "hint": "/ɪn'ænɪmət/",
+          "mastery": 4,
+          "reviewCount": 2,
+          "nextReview": "2026-06-24T14:41:01.084Z",
+          "createdAt": "2026-06-21T14:34:03.797Z"
+        },
+        {
+          "id": "card_1782052443797_5",
+          "front": "microblog",
+          "back": "/ˈmaɪkroʊblɑːɡ/ n. 微博",
+          "tags": [],
+          "hint": "/ˈmaɪkroʊblɑːɡ/",
+          "mastery": 4,
+          "reviewCount": 2,
+          "nextReview": "2026-06-24T14:41:01.813Z",
+          "createdAt": "2026-06-21T14:34:03.797Z"
+        },
+        {
+          "id": "card_1782052443797_6",
+          "front": "surrogate",
+          "back": "/'sɜːrəɡət/ adj. 替代的，代用的 n. 代理人，代替，〈英〉（宗教法庭上）主教 代表，代用人物",
+          "tags": [],
+          "hint": "/'sɜːrəɡət/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:41:02.612Z",
+          "createdAt": "2026-06-21T14:34:03.797Z"
+        },
+        {
+          "id": "card_1782052443797_7",
+          "front": "complaint",
+          "back": "/kəm'pleɪnt/ n. 抱怨；埋怨；投诉；控告；（不严重的）疾 病",
+          "tags": [],
+          "hint": "/kəm'pleɪnt/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:41:03.422Z",
+          "createdAt": "2026-06-21T14:34:03.797Z"
+        },
+        {
+          "id": "card_1782052443797_8",
+          "front": "spectrum",
+          "back": "/'spektrəm/ n. 光谱，声谱，频谱；范围，幅度；系列，层 次",
+          "tags": [],
+          "hint": "/'spektrəm/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:41:04.172Z",
+          "createdAt": "2026-06-21T14:34:03.797Z"
+        },
+        {
+          "id": "card_1782052443797_9",
+          "front": "verbiage",
+          "back": "/'vɜːbiɪdʒ/ n. 冗词，赘语，晦涩",
+          "tags": [],
+          "hint": "/'vɜːbiɪdʒ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:34:03.797Z"
+        }
+      ],
+      "createdAt": "2026-06-21T14:34:03.797Z",
+      "stats": {
+        "total": 10,
+        "mastered": 9,
+        "learning": 0,
+        "new": 1
+      },
+      "deleted": true
+    },
+    {
+      "id": "deck_1782053476864",
+      "userId": "default",
+      "title": "单词",
+      "cards": [
+        {
+          "id": "card_1782053476864_0",
+          "front": "dysfunction",
+          "back": "/dɪs'fʌŋkʃn/ n. （身体）功能障碍, （社会、家庭等内部 的）关系失衡",
+          "tags": [],
+          "hint": "/dɪs'fʌŋkʃn/",
+          "mastery": 3,
+          "reviewCount": 4,
+          "nextReview": "2026-06-22T14:53:50.861Z",
+          "createdAt": "2026-06-21T14:51:16.864Z",
+          "lastReviewedAt": "2026-06-21T14:53:50.861Z"
+        },
+        {
+          "id": "card_1782053476864_1",
+          "front": "pollster",
+          "back": "/'poʊlstər/ n. 民意测验主办人，民意调查员",
+          "tags": [],
+          "hint": "/'poʊlstər/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:51:24.511Z",
+          "createdAt": "2026-06-21T14:51:16.864Z",
+          "lastReviewedAt": "2026-06-21T14:51:24.511Z"
+        },
+        {
+          "id": "card_1782053476864_2",
+          "front": "infant",
+          "back": "/'ɪnfənt/ n. 婴儿；幼儿 adj. 婴儿的；初期的",
+          "tags": [],
+          "hint": "/'ɪnfənt/",
+          "mastery": 2,
+          "reviewCount": 3,
+          "nextReview": "2026-06-21T15:55:41.029Z",
+          "createdAt": "2026-06-21T14:51:16.864Z",
+          "lastReviewedAt": "2026-06-21T14:55:41.029Z"
+        },
+        {
+          "id": "card_1782053476864_3",
+          "front": "political",
+          "back": "/pə'lɪtɪkl/ adj. 政治的；政党的，派系斗争的；有政治头 脑的",
+          "tags": [],
+          "hint": "/pə'lɪtɪkl/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:51:31.565Z",
+          "createdAt": "2026-06-21T14:51:16.864Z",
+          "lastReviewedAt": "2026-06-21T14:51:31.565Z"
+        },
+        {
+          "id": "card_1782053476864_4",
+          "front": "inanimate",
+          "back": "/ɪn'ænɪmət/ adj. 无生命的，死的，像已死的",
+          "tags": [],
+          "hint": "/ɪn'ænɪmət/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-24T14:51:34.191Z",
+          "createdAt": "2026-06-21T14:51:16.864Z",
+          "lastReviewedAt": "2026-06-21T14:51:34.191Z"
+        },
+        {
+          "id": "card_1782053476864_5",
+          "front": "microblog",
+          "back": "/ˈmaɪkroʊblɑːɡ/ n. 微博",
+          "tags": [],
+          "hint": "/ˈmaɪkroʊblɑːɡ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:51:16.864Z"
+        },
+        {
+          "id": "card_1782053476864_6",
+          "front": "surrogate",
+          "back": "/'sɜːrəɡət/ adj. 替代的，代用的 n. 代理人，代替，〈英〉（宗教法庭上）主教 代表，代用人物",
+          "tags": [],
+          "hint": "/'sɜːrəɡət/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:51:16.864Z"
+        },
+        {
+          "id": "card_1782053476864_7",
+          "front": "complaint",
+          "back": "/kəm'pleɪnt/ n. 抱怨；埋怨；投诉；控告；（不严重的）疾 病",
+          "tags": [],
+          "hint": "/kəm'pleɪnt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:51:16.864Z"
+        },
+        {
+          "id": "card_1782053476864_8",
+          "front": "spectrum",
+          "back": "/'spektrəm/ n. 光谱，声谱，频谱；范围，幅度；系列，层 次",
+          "tags": [],
+          "hint": "/'spektrəm/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:51:16.864Z"
+        },
+        {
+          "id": "card_1782053476864_9",
+          "front": "verbiage",
+          "back": "/'vɜːbiɪdʒ/ n. 冗词，赘语，晦涩",
+          "tags": [],
+          "hint": "/'vɜːbiɪdʒ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T14:51:16.864Z"
+        }
+      ],
+      "createdAt": "2026-06-21T14:51:16.864Z",
+      "stats": {
+        "total": 10,
+        "mastered": 3,
+        "learning": 2,
+        "new": 5
+      },
+      "deleted": true
+    },
+    {
+      "id": "deck_1782054148495",
+      "userId": "default",
+      "title": "单词",
+      "cards": [
+        {
+          "id": "card_1782054148494_0",
+          "front": "dysfunction",
+          "back": "/dɪs'fʌŋkʃn/ n. （身体）功能障碍, （社会、家庭等内部 的）关系失衡",
+          "tags": [],
+          "hint": "/dɪs'fʌŋkʃn/",
+          "mastery": 4,
+          "reviewCount": 2,
+          "nextReview": "2026-06-25T14:09:25.378Z",
+          "createdAt": "2026-06-21T15:02:28.494Z",
+          "lastReviewedAt": "2026-06-22T14:09:25.378Z"
+        },
+        {
+          "id": "card_1782054148494_1",
+          "front": "pollster",
+          "back": "/'poʊlstər/ n. 民意测验主办人，民意调查员",
+          "tags": [],
+          "hint": "/'poʊlstər/",
+          "mastery": 1,
+          "reviewCount": 2,
+          "nextReview": "2026-06-22T14:19:32.298Z",
+          "createdAt": "2026-06-21T15:02:28.494Z",
+          "lastReviewedAt": "2026-06-22T14:09:32.298Z"
+        },
+        {
+          "id": "card_1782054148494_2",
+          "front": "infant",
+          "back": "/'ɪnfənt/ n. 婴儿；幼儿 adj. 婴儿的；初期的",
+          "tags": [],
+          "hint": "/'ɪnfənt/",
+          "mastery": 4,
+          "reviewCount": 2,
+          "nextReview": "2026-06-25T14:09:34.294Z",
+          "createdAt": "2026-06-21T15:02:28.494Z",
+          "lastReviewedAt": "2026-06-22T14:09:34.294Z"
+        },
+        {
+          "id": "card_1782054148494_3",
+          "front": "political",
+          "back": "/pə'lɪtɪkl/ adj. 政治的；政党的，派系斗争的；有政治头 脑的",
+          "tags": [],
+          "hint": "/pə'lɪtɪkl/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-25T12:53:35.939Z",
+          "createdAt": "2026-06-21T15:02:28.494Z",
+          "lastReviewedAt": "2026-06-22T12:53:35.939Z"
+        },
+        {
+          "id": "card_1782054148494_4",
+          "front": "inanimate",
+          "back": "/ɪn'ænɪmət/ adj. 无生命的，死的，像已死的",
+          "tags": [],
+          "hint": "/ɪn'ænɪmət/",
+          "mastery": 1,
+          "reviewCount": 1,
+          "nextReview": "2026-06-22T13:03:49.897Z",
+          "createdAt": "2026-06-21T15:02:28.494Z",
+          "lastReviewedAt": "2026-06-22T12:53:49.897Z"
+        },
+        {
+          "id": "card_1782054148494_5",
+          "front": "microblog",
+          "back": "/ˈmaɪkroʊblɑːɡ/ n. 微博",
+          "tags": [],
+          "hint": "/ˈmaɪkroʊblɑːɡ/",
+          "mastery": 4,
+          "reviewCount": 1,
+          "nextReview": "2026-06-25T12:53:58.788Z",
+          "createdAt": "2026-06-21T15:02:28.494Z",
+          "lastReviewedAt": "2026-06-22T12:53:58.788Z"
+        },
+        {
+          "id": "card_1782054148494_6",
+          "front": "surrogate",
+          "back": "/'sɜːrəɡət/ adj. 替代的，代用的 n. 代理人，代替，〈英〉（宗教法庭上）主教 代表，代用人物",
+          "tags": [],
+          "hint": "/'sɜːrəɡət/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_7",
+          "front": "complaint",
+          "back": "/kəm'pleɪnt/ n. 抱怨；埋怨；投诉；控告；（不严重的）疾 病",
+          "tags": [],
+          "hint": "/kəm'pleɪnt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_8",
+          "front": "spectrum",
+          "back": "/'spektrəm/ n. 光谱，声谱，频谱；范围，幅度；系列，层 次",
+          "tags": [],
+          "hint": "/'spektrəm/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_9",
+          "front": "verbiage",
+          "back": "/'vɜːbiɪdʒ/ n. 冗词，赘语，晦涩",
+          "tags": [],
+          "hint": "/'vɜːbiɪdʒ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_10",
+          "front": "caregiver",
+          "back": "/'kerɡɪvər/ n. 照料家居老弱病患者的人, 家庭护理员, 看护 人",
+          "tags": [],
+          "hint": "/'kerɡɪvər/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_11",
+          "front": "tweet",
+          "back": "/twiːt/ v. (小鸟)吱吱地叫 n. （小鸟的）唧啾, 运用推特社交网络发送的 信息",
+          "tags": [],
+          "hint": "/twiːt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_12",
+          "front": "spur",
+          "back": "/spɜːr/ n. 刺激，激励，鞭策；踢马刺，靴刺；骨刺； 山嘴，尖坡 v. 刺激，激励，促进，鞭策",
+          "tags": [],
+          "hint": "/spɜːr/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_13",
+          "front": "pertain",
+          "back": "/pər'teɪn/ v. 关于，与...相关，适用（于）",
+          "tags": [],
+          "hint": "/pər'teɪn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_14",
+          "front": "sophisticated",
+          "back": "/sə'fɪstɪkeɪtɪd/ adj. 老于世故的，见过世面的；精密的，复杂 的；先进的；水平高的，在行的",
+          "tags": [],
+          "hint": "/sə'fɪstɪkeɪtɪd/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_15",
+          "front": "sentiment",
+          "back": "/'sentɪmənt/ n. 观点，看法，情绪；（过于）伤感",
+          "tags": [],
+          "hint": "/'sentɪmənt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_16",
+          "front": "bathtub",
+          "back": "/bæθtʌb/ n. 浴缸，浴盆",
+          "tags": [],
+          "hint": "/bæθtʌb/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_17",
+          "front": "slump",
+          "back": "/slʌmp/ v. 猛跌，重重地坐下（或倒下） n. 衰退，锐减，萧条期",
+          "tags": [],
+          "hint": "/slʌmp/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_18",
+          "front": "rinse",
+          "back": "/rɪns/ v. （用清水）冲洗，洗涮；漂洗 n. 漂洗；冲洗；染发剂；漱口液",
+          "tags": [],
+          "hint": "/rɪns/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_19",
+          "front": "correlation",
+          "back": "/ˌkɔːrə'leɪʃn/ n. 相互关系，相关，关联",
+          "tags": [],
+          "hint": "/ˌkɔːrə'leɪʃn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_20",
+          "front": "presence",
+          "back": "/'prezns/ n. 存在；出席，在场；风度，风采",
+          "tags": [],
+          "hint": "/'prezns/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_21",
+          "front": "subtle",
+          "back": "/'sʌtl/ adj. 不易察觉的；微妙的；机智的；狡猾的； 巧妙的",
+          "tags": [],
+          "hint": "/'sʌtl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_22",
+          "front": "surveillance",
+          "back": "/sɜːr'veɪləns/ n. （对犯罪嫌疑人或可能发生犯罪的地方的） 监视",
+          "tags": [],
+          "hint": "/sɜːr'veɪləns/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_23",
+          "front": "transmission",
+          "back": "/træns'mɪʃn/ n. 传输，传送；播送，播送的内容；传动装置",
+          "tags": [],
+          "hint": "/træns'mɪʃn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_24",
+          "front": "disposal",
+          "back": "/dɪ'spoʊzl/ n. 处理；解决；清除；去掉；赠送；转让；出 售；排列；布置",
+          "tags": [],
+          "hint": "/dɪ'spoʊzl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_25",
+          "front": "combat",
+          "back": "/'kɑːmbæt/ n. 搏斗；打仗；战斗 v. 防止；减轻；战斗，与…搏斗",
+          "tags": [],
+          "hint": "/'kɑːmbæt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_26",
+          "front": "distinguishable",
+          "back": "/dɪ'stɪŋɡwɪʃəbl/ adj. 可区别的，（通过耳，目等）可以辨认出 的",
+          "tags": [],
+          "hint": "/dɪ'stɪŋɡwɪʃəbl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_27",
+          "front": "lethality",
+          "back": "/lɪ'θælətɪ/ n. 致死现象, 杀伤性, 死亡率",
+          "tags": [],
+          "hint": "/lɪ'θælətɪ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_28",
+          "front": "parameter",
+          "back": "/pə'ræmɪtər/ n. 参数，范围，决定因素，规范",
+          "tags": [],
+          "hint": "/pə'ræmɪtər/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_29",
+          "front": "computational",
+          "back": "/ˌkɑːmpju'teɪʃənl/ adj. 使用计算机的, 与计算机有关的",
+          "tags": [],
+          "hint": "/ˌkɑːmpju'teɪʃənl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_30",
+          "front": "metaphor",
+          "back": "/ˈmetəfər/ n. 隐喻，暗喻",
+          "tags": [],
+          "hint": "/ˈmetəfər/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_31",
+          "front": "discriminate",
+          "back": "/dɪ'skrɪmɪneɪt/ v. 歧视，区别，区分，辨别 adj. 有分辨能力的，显著的，〈古〉明确的",
+          "tags": [],
+          "hint": "/dɪ'skrɪmɪneɪt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_32",
+          "front": "universal",
+          "back": "/ˌjuːnɪ'vɜːrsl/ adj. 普遍的，通用的；全世界的，共同的 n. 普遍特征，普遍原则",
+          "tags": [],
+          "hint": "/ˌjuːnɪ'vɜːrsl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_33",
+          "front": "combatant",
+          "back": "/kəmˈbætnt/ n. 参战者，战斗人员，战士 adj. （参加）战斗的，好斗的",
+          "tags": [],
+          "hint": "/kəmˈbætnt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_34",
+          "front": "symbolize",
+          "back": "/'sɪmbəlaɪz/ v. 象征，是…的象征，代表",
+          "tags": [],
+          "hint": "/'sɪmbəlaɪz/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_35",
+          "front": "lethal",
+          "back": "/'liːθl/ adj. 致命的，可致死的，危害极大的，破坏性 极大的",
+          "tags": [],
+          "hint": "/'liːθl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_36",
+          "front": "phobia",
+          "back": "/'foʊbiə/ n. 恐怖症，对…的恐惧症",
+          "tags": [],
+          "hint": "/'foʊbiə/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_37",
+          "front": "estimate",
+          "back": "/ˈestɪmeɪt/ v. 估计，估价 n. 估计，估价",
+          "tags": [],
+          "hint": "/ˈestɪmeɪt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_38",
+          "front": "irrational",
+          "back": "/ɪ'ræʃənl/ adj. 不理性的，没有道理的；不合逻辑的 n. 无理数，无理性的生物",
+          "tags": [],
+          "hint": "/ɪ'ræʃənl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_39",
+          "front": "hypnophobia",
+          "back": "/ˌhɪpnə'foʊbɪə/ n. [心]睡眠恐怖",
+          "tags": [],
+          "hint": "/ˌhɪpnə'foʊbɪə/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_40",
+          "front": "manure",
+          "back": "/mə'nʊr/ n. 肥料，粪肥 v. 给…施肥",
+          "tags": [],
+          "hint": "/mə'nʊr/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_41",
+          "front": "indigenous",
+          "back": "/ɪn'dɪdʒənəs/ adj. 土著的，原产的，本乡本土的，土生土长 的 n. 本土点，乡土种，本地种",
+          "tags": [],
+          "hint": "/ɪn'dɪdʒənəs/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_42",
+          "front": "demolish",
+          "back": "/dɪ'mɑːlɪʃ/ v. 拆毁，破坏，驳倒（观点或理论），轻易而 彻底地打败",
+          "tags": [],
+          "hint": "/dɪ'mɑːlɪʃ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_43",
+          "front": "unanimous",
+          "back": "/ju'nænɪməs/ adj. 一致的，一致同意的；意见一致的",
+          "tags": [],
+          "hint": "/ju'nænɪməs/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_44",
+          "front": "crusade",
+          "back": "/kruː'seɪd/ n. （长期坚定不移的）斗争，运动；（中世纪 的）十字军东征 v. 长期坚定不移地奋斗",
+          "tags": [],
+          "hint": "/kruː'seɪd/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_45",
+          "front": "mobilize",
+          "back": "/'moʊbəlaɪz/ v. 调动；动员；组织；鼓动",
+          "tags": [],
+          "hint": "/'moʊbəlaɪz/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_46",
+          "front": "supercharge",
+          "back": "/ˌsuːpə'tʃɑːdʒ/ v. 增加(…的)负荷, 【机】(使)增压",
+          "tags": [],
+          "hint": "/ˌsuːpə'tʃɑːdʒ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_47",
+          "front": "veterinary",
+          "back": "/ˈvetərəneri/ adj. 兽医的 n. 兽医",
+          "tags": [],
+          "hint": "/ˈvetərəneri/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_48",
+          "front": "magma",
+          "back": "/'mæɡmə/ n. 岩浆",
+          "tags": [],
+          "hint": "/'mæɡmə/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_49",
+          "front": "intimate",
+          "back": "/'ɪntɪmət/ adj. 亲密的；密切的；私人的 v. 透露；（间接）表示；暗示",
+          "tags": [],
+          "hint": "/'ɪntɪmət/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_50",
+          "front": "decay",
+          "back": "/dɪ'keɪ/ n. 腐烂；衰退 v. 衰败；腐败",
+          "tags": [],
+          "hint": "/dɪ'keɪ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_51",
+          "front": "interwoven",
+          "back": "/ˌɪntə'wəʊvn/ v. 交织,交叉,织进（interweave的过去分词 ）",
+          "tags": [],
+          "hint": "/ˌɪntə'wəʊvn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_52",
+          "front": "emit",
+          "back": "/i'mɪt/ v. 发出，散发；排放，散发（尤指气体、辐射 物）",
+          "tags": [],
+          "hint": "/i'mɪt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_53",
+          "front": "extinct",
+          "back": "/ɪk'stɪŋkt/ adj. （动植物，语言）灭绝的；（习俗，工作 等）消失的",
+          "tags": [],
+          "hint": "/ɪk'stɪŋkt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_54",
+          "front": "rear",
+          "back": "/rɪr/ adj. 后面的；后部的 n. 后部；屁股，臀部",
+          "tags": [],
+          "hint": "/rɪr/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_55",
+          "front": "vanish",
+          "back": "/'vænɪʃ/ v. 消失，不见了；绝迹 n. 弱化音",
+          "tags": [],
+          "hint": "/'vænɪʃ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_56",
+          "front": "deplete",
+          "back": "/dɪ'pliːt/ v. 耗尽，大量减少，使枯竭",
+          "tags": [],
+          "hint": "/dɪ'pliːt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_57",
+          "front": "impending",
+          "back": "/ɪm'pendɪŋ/ adj. 即将发生的，迫在眉睫的",
+          "tags": [],
+          "hint": "/ɪm'pendɪŋ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_58",
+          "front": "mistrust",
+          "back": "/ˌmɪs'trʌst/ n. 不信任 v. 不信任",
+          "tags": [],
+          "hint": "/ˌmɪs'trʌst/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_59",
+          "front": "implication",
+          "back": "/ˌɪmplɪ'keɪʃn/ n. 暗示，含义；可能引发的后果",
+          "tags": [],
+          "hint": "/ˌɪmplɪ'keɪʃn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_60",
+          "front": "guzzler",
+          "back": "/'ɡʌzlər/ n. 狂饮或滥吃的人； 高油耗汽车（=gas guzzler）",
+          "tags": [],
+          "hint": "/'ɡʌzlər/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_61",
+          "front": "detrimental",
+          "back": "/ˌdetrɪ'mentl/ adj. 不利的，有害的",
+          "tags": [],
+          "hint": "/ˌdetrɪ'mentl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_62",
+          "front": "neuron",
+          "back": "/'nʊrɑːn/ n. 神经元",
+          "tags": [],
+          "hint": "/'nʊrɑːn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_63",
+          "front": "alleviation",
+          "back": "/əˌliːvi'eɪʃn/ n. 减轻，慰藉物",
+          "tags": [],
+          "hint": "/əˌliːvi'eɪʃn/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_64",
+          "front": "processor",
+          "back": "/'prɑːsesər/ n. 处理器，加工机（或工人），处理机",
+          "tags": [],
+          "hint": "/'prɑːsesər/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_65",
+          "front": "favorable",
+          "back": "/'feɪvərəbəl/ adj. 赞成的；有利的；顺利的；良好的；有望 的；偏袒的",
+          "tags": [],
+          "hint": "/'feɪvərəbəl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_66",
+          "front": "bottleneck",
+          "back": "/'bɑːtlnek/ n. 瓶颈路段（常引起交通阻塞），（阻碍发展 的）障碍，瓶颈 v. 阻碍，阻挡",
+          "tags": [],
+          "hint": "/'bɑːtlnek/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_67",
+          "front": "concomitant",
+          "back": "/kən'kɒmətənt/ adj. 伴随的；同时发生或出现的 n. 同时发生的事，伴随（或相伴）的事物",
+          "tags": [],
+          "hint": "/kən'kɒmətənt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_68",
+          "front": "rigid",
+          "back": "/'rɪdʒɪd/ adj. 严格死板的，僵硬的，固执的，僵化的",
+          "tags": [],
+          "hint": "/'rɪdʒɪd/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_69",
+          "front": "bear",
+          "back": "/ber/ v. 承受，忍受；承担责任；显示，带有；支 撑；生育；结（果实），长出（花、叶），怀 有（某种感情） n. 熊；（在证券市场等）卖空的人",
+          "tags": [],
+          "hint": "/ber/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_70",
+          "front": "shuffle",
+          "back": "/'ʃʌfl/ v. 拖着脚走，（笨拙或尴尬地）把脚动来动 去，坐立不安，洗（牌），打乱 n. 洗牌，拖着脚走，曳步舞",
+          "tags": [],
+          "hint": "/'ʃʌfl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_71",
+          "front": "scenario",
+          "back": "/sə'nærioʊ/ n. 方案；设想；可能发生的事，可能出现的情 况，设想的场景；（电影、戏剧等的）剧情梗 概",
+          "tags": [],
+          "hint": "/sə'nærioʊ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_72",
+          "front": "arithmetic",
+          "back": "/ə'rɪθmətɪk/ n. 算术，算术运算，四则运算",
+          "tags": [],
+          "hint": "/ə'rɪθmətɪk/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_73",
+          "front": "disrupt",
+          "back": "/dɪs'rʌpt/ v. 扰乱，打乱，使中断",
+          "tags": [],
+          "hint": "/dɪs'rʌpt/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_74",
+          "front": "outstrip",
+          "back": "/ˌaʊt'strɪp/ v. 超过，胜过，超越，比…大（或重要等）",
+          "tags": [],
+          "hint": "/ˌaʊt'strɪp/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_75",
+          "front": "interface",
+          "back": "/'ɪntərfeɪs/ n. 接口，界面；接触面；相互作用；（两学科 的）结合点 v. （使）连接；互相联系，相互交流",
+          "tags": [],
+          "hint": "/'ɪntərfeɪs/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_76",
+          "front": "fluid",
+          "back": "/'fluːɪd/ n. 流体，液，液体 adj. 流动的；易变的，不稳定的；流畅优美的",
+          "tags": [],
+          "hint": "/'fluːɪd/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_77",
+          "front": "strip",
+          "back": "/strɪp/ n. 条，带；狭长地带，带状水域；队服；连环 漫画 v. 剥夺；扒光…的衣服；进行脱衣表演",
+          "tags": [],
+          "hint": "/strɪp/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_78",
+          "front": "spinach",
+          "back": "/'spɪnɪtʃ/ n. 菠菜",
+          "tags": [],
+          "hint": "/'spɪnɪtʃ/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_79",
+          "front": "outbreak",
+          "back": "/'aʊtbreɪk/ n. （暴力、疾病等坏事的）爆发，突然发生",
+          "tags": [],
+          "hint": "/'aʊtbreɪk/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_80",
+          "front": "staple",
+          "back": "/'steɪpl/ adj. 主要的，最重要的 v. 装订",
+          "tags": [],
+          "hint": "/'steɪpl/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_81",
+          "front": "tumor",
+          "back": "/ˈtuːmər/ n. 肿瘤",
+          "tags": [],
+          "hint": "/ˈtuːmər/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_82",
+          "front": "neurosurgeon",
+          "back": "/ˌnjʊroʊ'sɜːdʒən/ n. 神经外科医生",
+          "tags": [],
+          "hint": "/ˌnjʊroʊ'sɜːdʒən/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_83",
+          "front": "neurosurgery",
+          "back": "/'nʊroʊsɜːrdʒəri/ n. 神经外科（学）",
+          "tags": [],
+          "hint": "/'nʊroʊsɜːrdʒəri/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148494_84",
+          "front": "electrode",
+          "back": "/ɪ'lektroʊd/ n. 电极",
+          "tags": [],
+          "hint": "/ɪ'lektroʊd/",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.494Z"
+        },
+        {
+          "id": "card_1782054148495_85",
+          "front": "page",
+          "back": "1",
+          "tags": [],
+          "hint": "",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.495Z"
+        },
+        {
+          "id": "card_1782054148495_86",
+          "front": "n. 狂饮或滥吃的人； 高油耗汽车（",
+          "back": "gas",
+          "tags": [],
+          "hint": "",
+          "mastery": 0,
+          "reviewCount": 0,
+          "nextReview": null,
+          "createdAt": "2026-06-21T15:02:28.495Z"
+        }
+      ],
+      "createdAt": "2026-06-21T15:02:28.495Z",
+      "stats": {
+        "total": 87,
+        "mastered": 4,
+        "learning": 2,
+        "new": 81
+      }
+    },
+    {
+      "id": "deck_1782054239920",
+      "userId": "default",
+      "title": "单词",
+      "cards": [
+        {
+          "id": "quiz_1782054239920_0",
+          "question": "\"dysfunction\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. （身体）功能障碍, （社会、家庭等内部 的）关系失衡",
+          "explanation": "dysfunction /dɪs'fʌŋkʃn/ n. （身体）功能障碍, （社会、家庭等内部 的）关系失衡",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z",
+          "mastery": 4,
+          "reviewCount": 1,
+          "lastReviewedAt": "2026-06-21T15:04:02.381Z",
+          "nextReview": "2026-06-24T15:04:02.381Z"
+        },
+        {
+          "id": "quiz_1782054239920_1",
+          "question": "\"pollster\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 民意测验主办人，民意调查员",
+          "explanation": "pollster /'poʊlstər/ n. 民意测验主办人，民意调查员",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_2",
+          "question": "\"infant\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 婴儿；幼儿 adj. 婴儿的；初期的",
+          "explanation": "infant /'ɪnfənt/ n. 婴儿；幼儿 adj. 婴儿的；初期的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_3",
+          "question": "\"political\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 政治的；政党的，派系斗争的；有政治头 脑的",
+          "explanation": "political /pə'lɪtɪkl/ adj. 政治的；政党的，派系斗争的；有政治头 脑的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_4",
+          "question": "\"inanimate\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 无生命的，死的，像已死的",
+          "explanation": "inanimate /ɪn'ænɪmət/ adj. 无生命的，死的，像已死的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_5",
+          "question": "\"microblog\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 微博",
+          "explanation": "microblog /ˈmaɪkroʊblɑːɡ/ n. 微博",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_6",
+          "question": "\"surrogate\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 替代的，代用的 n. 代理人，代替，〈英〉（宗教法庭上）主教 代表，代用人物",
+          "explanation": "surrogate /'sɜːrəɡət/ adj. 替代的，代用的 n. 代理人，代替，〈英〉（宗教法庭上）主教 代表，代用人物",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_7",
+          "question": "\"complaint\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 抱怨；埋怨；投诉；控告；（不严重的）疾 病",
+          "explanation": "complaint /kəm'pleɪnt/ n. 抱怨；埋怨；投诉；控告；（不严重的）疾 病",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_8",
+          "question": "\"spectrum\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 光谱，声谱，频谱；范围，幅度；系列，层 次",
+          "explanation": "spectrum /'spektrəm/ n. 光谱，声谱，频谱；范围，幅度；系列，层 次",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_9",
+          "question": "\"verbiage\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 冗词，赘语，晦涩",
+          "explanation": "verbiage /'vɜːbiɪdʒ/ n. 冗词，赘语，晦涩",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_10",
+          "question": "\"caregiver\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 照料家居老弱病患者的人, 家庭护理员, 看护 人",
+          "explanation": "caregiver /'kerɡɪvər/ n. 照料家居老弱病患者的人, 家庭护理员, 看护 人",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_11",
+          "question": "\"tweet\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. (小鸟)吱吱地叫 n. （小鸟的）唧啾, 运用推特社交网络发送的 信息",
+          "explanation": "tweet /twiːt/ v. (小鸟)吱吱地叫 n. （小鸟的）唧啾, 运用推特社交网络发送的 信息",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_12",
+          "question": "\"spur\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 刺激，激励，鞭策；踢马刺，靴刺；骨刺； 山嘴，尖坡 v. 刺激，激励，促进，鞭策",
+          "explanation": "spur /spɜːr/ n. 刺激，激励，鞭策；踢马刺，靴刺；骨刺； 山嘴，尖坡 v. 刺激，激励，促进，鞭策",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_13",
+          "question": "\"pertain\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 关于，与...相关，适用（于）",
+          "explanation": "pertain /pər'teɪn/ v. 关于，与...相关，适用（于）",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_14",
+          "question": "\"sophisticated\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 老于世故的，见过世面的；精密的，复杂 的；先进的；水平高的，在行的",
+          "explanation": "sophisticated /sə'fɪstɪkeɪtɪd/ adj. 老于世故的，见过世面的；精密的，复杂 的；先进的；水平高的，在行的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_15",
+          "question": "\"sentiment\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 观点，看法，情绪；（过于）伤感",
+          "explanation": "sentiment /'sentɪmənt/ n. 观点，看法，情绪；（过于）伤感",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_16",
+          "question": "\"bathtub\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 浴缸，浴盆",
+          "explanation": "bathtub /bæθtʌb/ n. 浴缸，浴盆",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_17",
+          "question": "\"slump\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 猛跌，重重地坐下（或倒下） n. 衰退，锐减，萧条期",
+          "explanation": "slump /slʌmp/ v. 猛跌，重重地坐下（或倒下） n. 衰退，锐减，萧条期",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_18",
+          "question": "\"rinse\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. （用清水）冲洗，洗涮；漂洗 n. 漂洗；冲洗；染发剂；漱口液",
+          "explanation": "rinse /rɪns/ v. （用清水）冲洗，洗涮；漂洗 n. 漂洗；冲洗；染发剂；漱口液",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_19",
+          "question": "\"correlation\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 相互关系，相关，关联",
+          "explanation": "correlation /ˌkɔːrə'leɪʃn/ n. 相互关系，相关，关联",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_20",
+          "question": "\"presence\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 存在；出席，在场；风度，风采",
+          "explanation": "presence /'prezns/ n. 存在；出席，在场；风度，风采",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_21",
+          "question": "\"subtle\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 不易察觉的；微妙的；机智的；狡猾的； 巧妙的",
+          "explanation": "subtle /'sʌtl/ adj. 不易察觉的；微妙的；机智的；狡猾的； 巧妙的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_22",
+          "question": "\"surveillance\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. （对犯罪嫌疑人或可能发生犯罪的地方的） 监视",
+          "explanation": "surveillance /sɜːr'veɪləns/ n. （对犯罪嫌疑人或可能发生犯罪的地方的） 监视",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_23",
+          "question": "\"transmission\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 传输，传送；播送，播送的内容；传动装置",
+          "explanation": "transmission /træns'mɪʃn/ n. 传输，传送；播送，播送的内容；传动装置",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_24",
+          "question": "\"disposal\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 处理；解决；清除；去掉；赠送；转让；出 售；排列；布置",
+          "explanation": "disposal /dɪ'spoʊzl/ n. 处理；解决；清除；去掉；赠送；转让；出 售；排列；布置",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_25",
+          "question": "\"combat\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 搏斗；打仗；战斗 v. 防止；减轻；战斗，与…搏斗",
+          "explanation": "combat /'kɑːmbæt/ n. 搏斗；打仗；战斗 v. 防止；减轻；战斗，与…搏斗",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_26",
+          "question": "\"distinguishable\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 可区别的，（通过耳，目等）可以辨认出 的",
+          "explanation": "distinguishable /dɪ'stɪŋɡwɪʃəbl/ adj. 可区别的，（通过耳，目等）可以辨认出 的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_27",
+          "question": "\"lethality\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 致死现象, 杀伤性, 死亡率",
+          "explanation": "lethality /lɪ'θælətɪ/ n. 致死现象, 杀伤性, 死亡率",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_28",
+          "question": "\"parameter\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 参数，范围，决定因素，规范",
+          "explanation": "parameter /pə'ræmɪtər/ n. 参数，范围，决定因素，规范",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_29",
+          "question": "\"computational\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 使用计算机的, 与计算机有关的",
+          "explanation": "computational /ˌkɑːmpju'teɪʃənl/ adj. 使用计算机的, 与计算机有关的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_30",
+          "question": "\"metaphor\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 隐喻，暗喻",
+          "explanation": "metaphor /ˈmetəfər/ n. 隐喻，暗喻",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_31",
+          "question": "\"discriminate\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 歧视，区别，区分，辨别 adj. 有分辨能力的，显著的，〈古〉明确的",
+          "explanation": "discriminate /dɪ'skrɪmɪneɪt/ v. 歧视，区别，区分，辨别 adj. 有分辨能力的，显著的，〈古〉明确的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_32",
+          "question": "\"universal\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 普遍的，通用的；全世界的，共同的 n. 普遍特征，普遍原则",
+          "explanation": "universal /ˌjuːnɪ'vɜːrsl/ adj. 普遍的，通用的；全世界的，共同的 n. 普遍特征，普遍原则",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_33",
+          "question": "\"combatant\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 参战者，战斗人员，战士 adj. （参加）战斗的，好斗的",
+          "explanation": "combatant /kəmˈbætnt/ n. 参战者，战斗人员，战士 adj. （参加）战斗的，好斗的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_34",
+          "question": "\"symbolize\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 象征，是…的象征，代表",
+          "explanation": "symbolize /'sɪmbəlaɪz/ v. 象征，是…的象征，代表",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_35",
+          "question": "\"lethal\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 致命的，可致死的，危害极大的，破坏性 极大的",
+          "explanation": "lethal /'liːθl/ adj. 致命的，可致死的，危害极大的，破坏性 极大的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_36",
+          "question": "\"phobia\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 恐怖症，对…的恐惧症",
+          "explanation": "phobia /'foʊbiə/ n. 恐怖症，对…的恐惧症",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_37",
+          "question": "\"estimate\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 估计，估价 n. 估计，估价",
+          "explanation": "estimate /ˈestɪmeɪt/ v. 估计，估价 n. 估计，估价",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_38",
+          "question": "\"irrational\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 不理性的，没有道理的；不合逻辑的 n. 无理数，无理性的生物",
+          "explanation": "irrational /ɪ'ræʃənl/ adj. 不理性的，没有道理的；不合逻辑的 n. 无理数，无理性的生物",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_39",
+          "question": "\"hypnophobia\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. [心]睡眠恐怖",
+          "explanation": "hypnophobia /ˌhɪpnə'foʊbɪə/ n. [心]睡眠恐怖",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_40",
+          "question": "\"manure\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 肥料，粪肥 v. 给…施肥",
+          "explanation": "manure /mə'nʊr/ n. 肥料，粪肥 v. 给…施肥",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_41",
+          "question": "\"indigenous\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 土著的，原产的，本乡本土的，土生土长 的 n. 本土点，乡土种，本地种",
+          "explanation": "indigenous /ɪn'dɪdʒənəs/ adj. 土著的，原产的，本乡本土的，土生土长 的 n. 本土点，乡土种，本地种",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_42",
+          "question": "\"demolish\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 拆毁，破坏，驳倒（观点或理论），轻易而 彻底地打败",
+          "explanation": "demolish /dɪ'mɑːlɪʃ/ v. 拆毁，破坏，驳倒（观点或理论），轻易而 彻底地打败",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_43",
+          "question": "\"unanimous\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 一致的，一致同意的；意见一致的",
+          "explanation": "unanimous /ju'nænɪməs/ adj. 一致的，一致同意的；意见一致的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_44",
+          "question": "\"crusade\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. （长期坚定不移的）斗争，运动；（中世纪 的）十字军东征 v. 长期坚定不移地奋斗",
+          "explanation": "crusade /kruː'seɪd/ n. （长期坚定不移的）斗争，运动；（中世纪 的）十字军东征 v. 长期坚定不移地奋斗",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_45",
+          "question": "\"mobilize\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 调动；动员；组织；鼓动",
+          "explanation": "mobilize /'moʊbəlaɪz/ v. 调动；动员；组织；鼓动",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_46",
+          "question": "\"supercharge\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 增加(…的)负荷, 【机】(使)增压",
+          "explanation": "supercharge /ˌsuːpə'tʃɑːdʒ/ v. 增加(…的)负荷, 【机】(使)增压",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_47",
+          "question": "\"veterinary\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 兽医的 n. 兽医",
+          "explanation": "veterinary /ˈvetərəneri/ adj. 兽医的 n. 兽医",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_48",
+          "question": "\"magma\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 岩浆",
+          "explanation": "magma /'mæɡmə/ n. 岩浆",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_49",
+          "question": "\"intimate\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 亲密的；密切的；私人的 v. 透露；（间接）表示；暗示",
+          "explanation": "intimate /'ɪntɪmət/ adj. 亲密的；密切的；私人的 v. 透露；（间接）表示；暗示",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_50",
+          "question": "\"decay\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 腐烂；衰退 v. 衰败；腐败",
+          "explanation": "decay /dɪ'keɪ/ n. 腐烂；衰退 v. 衰败；腐败",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_51",
+          "question": "\"interwoven\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 交织,交叉,织进（interweave的过去分词 ）",
+          "explanation": "interwoven /ˌɪntə'wəʊvn/ v. 交织,交叉,织进（interweave的过去分词 ）",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_52",
+          "question": "\"emit\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 发出，散发；排放，散发（尤指气体、辐射 物）",
+          "explanation": "emit /i'mɪt/ v. 发出，散发；排放，散发（尤指气体、辐射 物）",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_53",
+          "question": "\"extinct\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. （动植物，语言）灭绝的；（习俗，工作 等）消失的",
+          "explanation": "extinct /ɪk'stɪŋkt/ adj. （动植物，语言）灭绝的；（习俗，工作 等）消失的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_54",
+          "question": "\"rear\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 后面的；后部的 n. 后部；屁股，臀部",
+          "explanation": "rear /rɪr/ adj. 后面的；后部的 n. 后部；屁股，臀部",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_55",
+          "question": "\"vanish\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 消失，不见了；绝迹 n. 弱化音",
+          "explanation": "vanish /'vænɪʃ/ v. 消失，不见了；绝迹 n. 弱化音",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_56",
+          "question": "\"deplete\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 耗尽，大量减少，使枯竭",
+          "explanation": "deplete /dɪ'pliːt/ v. 耗尽，大量减少，使枯竭",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_57",
+          "question": "\"impending\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 即将发生的，迫在眉睫的",
+          "explanation": "impending /ɪm'pendɪŋ/ adj. 即将发生的，迫在眉睫的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_58",
+          "question": "\"mistrust\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 不信任 v. 不信任",
+          "explanation": "mistrust /ˌmɪs'trʌst/ n. 不信任 v. 不信任",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_59",
+          "question": "\"implication\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 暗示，含义；可能引发的后果",
+          "explanation": "implication /ˌɪmplɪ'keɪʃn/ n. 暗示，含义；可能引发的后果",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_60",
+          "question": "\"guzzler\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 狂饮或滥吃的人； 高油耗汽车（=gas guzzler）",
+          "explanation": "guzzler /'ɡʌzlər/ n. 狂饮或滥吃的人； 高油耗汽车（=gas guzzler）",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_61",
+          "question": "\"detrimental\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 不利的，有害的",
+          "explanation": "detrimental /ˌdetrɪ'mentl/ adj. 不利的，有害的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_62",
+          "question": "\"neuron\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 神经元",
+          "explanation": "neuron /'nʊrɑːn/ n. 神经元",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_63",
+          "question": "\"alleviation\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 减轻，慰藉物",
+          "explanation": "alleviation /əˌliːvi'eɪʃn/ n. 减轻，慰藉物",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_64",
+          "question": "\"processor\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 处理器，加工机（或工人），处理机",
+          "explanation": "processor /'prɑːsesər/ n. 处理器，加工机（或工人），处理机",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_65",
+          "question": "\"favorable\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 赞成的；有利的；顺利的；良好的；有望 的；偏袒的",
+          "explanation": "favorable /'feɪvərəbəl/ adj. 赞成的；有利的；顺利的；良好的；有望 的；偏袒的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_66",
+          "question": "\"bottleneck\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 瓶颈路段（常引起交通阻塞），（阻碍发展 的）障碍，瓶颈 v. 阻碍，阻挡",
+          "explanation": "bottleneck /'bɑːtlnek/ n. 瓶颈路段（常引起交通阻塞），（阻碍发展 的）障碍，瓶颈 v. 阻碍，阻挡",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_67",
+          "question": "\"concomitant\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 伴随的；同时发生或出现的 n. 同时发生的事，伴随（或相伴）的事物",
+          "explanation": "concomitant /kən'kɒmətənt/ adj. 伴随的；同时发生或出现的 n. 同时发生的事，伴随（或相伴）的事物",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_68",
+          "question": "\"rigid\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 严格死板的，僵硬的，固执的，僵化的",
+          "explanation": "rigid /'rɪdʒɪd/ adj. 严格死板的，僵硬的，固执的，僵化的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_69",
+          "question": "\"bear\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 承受，忍受；承担责任；显示，带有；支 撑；生育；结（果实），长出（花、叶），怀 有（某种感情） n. 熊；（在证券市场等）卖空的人",
+          "explanation": "bear /ber/ v. 承受，忍受；承担责任；显示，带有；支 撑；生育；结（果实），长出（花、叶），怀 有（某种感情） n. 熊；（在证券市场等）卖空的人",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_70",
+          "question": "\"shuffle\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 拖着脚走，（笨拙或尴尬地）把脚动来动 去，坐立不安，洗（牌），打乱 n. 洗牌，拖着脚走，曳步舞",
+          "explanation": "shuffle /'ʃʌfl/ v. 拖着脚走，（笨拙或尴尬地）把脚动来动 去，坐立不安，洗（牌），打乱 n. 洗牌，拖着脚走，曳步舞",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_71",
+          "question": "\"scenario\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 方案；设想；可能发生的事，可能出现的情 况，设想的场景；（电影、戏剧等的）剧情梗 概",
+          "explanation": "scenario /sə'nærioʊ/ n. 方案；设想；可能发生的事，可能出现的情 况，设想的场景；（电影、戏剧等的）剧情梗 概",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_72",
+          "question": "\"arithmetic\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 算术，算术运算，四则运算",
+          "explanation": "arithmetic /ə'rɪθmətɪk/ n. 算术，算术运算，四则运算",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_73",
+          "question": "\"disrupt\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 扰乱，打乱，使中断",
+          "explanation": "disrupt /dɪs'rʌpt/ v. 扰乱，打乱，使中断",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_74",
+          "question": "\"outstrip\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "v. 超过，胜过，超越，比…大（或重要等）",
+          "explanation": "outstrip /ˌaʊt'strɪp/ v. 超过，胜过，超越，比…大（或重要等）",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_75",
+          "question": "\"interface\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 接口，界面；接触面；相互作用；（两学科 的）结合点 v. （使）连接；互相联系，相互交流",
+          "explanation": "interface /'ɪntərfeɪs/ n. 接口，界面；接触面；相互作用；（两学科 的）结合点 v. （使）连接；互相联系，相互交流",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_76",
+          "question": "\"fluid\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 流体，液，液体 adj. 流动的；易变的，不稳定的；流畅优美的",
+          "explanation": "fluid /'fluːɪd/ n. 流体，液，液体 adj. 流动的；易变的，不稳定的；流畅优美的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_77",
+          "question": "\"strip\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 条，带；狭长地带，带状水域；队服；连环 漫画 v. 剥夺；扒光…的衣服；进行脱衣表演",
+          "explanation": "strip /strɪp/ n. 条，带；狭长地带，带状水域；队服；连环 漫画 v. 剥夺；扒光…的衣服；进行脱衣表演",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_78",
+          "question": "\"spinach\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 菠菜",
+          "explanation": "spinach /'spɪnɪtʃ/ n. 菠菜",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_79",
+          "question": "\"outbreak\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. （暴力、疾病等坏事的）爆发，突然发生",
+          "explanation": "outbreak /'aʊtbreɪk/ n. （暴力、疾病等坏事的）爆发，突然发生",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_80",
+          "question": "\"staple\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "adj. 主要的，最重要的 v. 装订",
+          "explanation": "staple /'steɪpl/ adj. 主要的，最重要的 v. 装订",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_81",
+          "question": "\"tumor\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 肿瘤",
+          "explanation": "tumor /ˈtuːmər/ n. 肿瘤",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_82",
+          "question": "\"neurosurgeon\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 神经外科医生",
+          "explanation": "neurosurgeon /ˌnjʊroʊ'sɜːdʒən/ n. 神经外科医生",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_83",
+          "question": "\"neurosurgery\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 神经外科（学）",
+          "explanation": "neurosurgery /'nʊroʊsɜːrdʒəri/ n. 神经外科（学）",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_84",
+          "question": "\"electrode\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "n. 电极",
+          "explanation": "electrode /ɪ'lektroʊd/ n. 电极",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_85",
+          "question": "\"page\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "1",
+          "explanation": "page  1",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        },
+        {
+          "id": "quiz_1782054239920_86",
+          "question": "\"n. 狂饮或滥吃的人； 高油耗汽车（\" 的意思是？",
+          "type": "fill_blank",
+          "options": [],
+          "correctAnswer": "gas",
+          "explanation": "n. 狂饮或滥吃的人； 高油耗汽车（  gas",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:03:59.920Z"
+        }
+      ],
+      "createdAt": "2026-06-21T15:03:59.920Z",
+      "stats": {
+        "total": 87,
+        "mastered": 1,
+        "learning": 0,
+        "new": 0
+      },
+      "deleted": true
+    },
+    {
+      "id": "deck_1782054433517",
+      "userId": "default",
+      "title": "新的 Notebook 闪卡",
+      "cards": [
+        {
+          "id": "quiz_1782054433514_0",
+          "question": "填入合适的单词：\n\"The teacher explained the concept of ______ clearly.\"",
+          "type": "cloze",
+          "options": [
+            "dysfunction",
+            "magma",
+            "surveillance",
+            "verbiage"
+          ],
+          "correctAnswer": "A",
+          "explanation": "dysfunction /dɪs'fʌŋkʃn/ n. （身体）功能障碍, （社会、家庭等内部 的）关系失衡",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:07:13.514Z"
+        },
+        {
+          "id": "quiz_1782054433516_1",
+          "question": "下列哪个单词表示\"民意测验主办人，民意调查员\"？",
+          "type": "meaning_choice",
+          "options": [
+            "mobilize",
+            "pollster",
+            "bathtub",
+            "neuron"
+          ],
+          "correctAnswer": "B",
+          "explanation": "pollster /'poʊlstər/ n. 民意测验主办人，民意调查员",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:07:13.516Z"
+        },
+        {
+          "id": "quiz_1782054433516_2",
+          "question": "\"infant\" /'ɪnfənt/ 的中文释义是？",
+          "type": "meaning_choice",
+          "options": [
+            "致命的，可致死的，危害极大的，破坏性 极大的",
+            "拆毁，破坏，驳倒（观点或理论），轻易而 彻底地打败",
+            "婴儿；幼儿 adj. 婴儿的；初期的",
+            "不易察觉的；微妙的；机智的；狡猾的； 巧妙的"
+          ],
+          "correctAnswer": "C",
+          "explanation": "infant /'ɪnfənt/ n. 婴儿；幼儿 adj. 婴儿的；初期的",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:07:13.516Z"
+        },
+        {
+          "id": "quiz_1782054433516_3",
+          "question": "填入合适的单词：\n\"The ______ result surprised everyone in the room.\"",
+          "type": "cloze",
+          "options": [
+            "subtle",
+            "political",
+            "hypnophobia",
+            "parameter"
+          ],
+          "correctAnswer": "B",
+          "explanation": "political /pə'lɪtɪkl/ adj. 政治的；政党的，派系斗争的；有政治头 脑的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:07:13.516Z"
+        },
+        {
+          "id": "quiz_1782054433516_4",
+          "question": "下列哪个单词表示\"无生命的，死的，像已死的\"？",
+          "type": "meaning_choice",
+          "options": [
+            "lethal",
+            "inanimate",
+            "mobilize",
+            "neurosurgeon"
+          ],
+          "correctAnswer": "B",
+          "explanation": "inanimate /ɪn'ænɪmət/ adj. 无生命的，死的，像已死的",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:07:13.516Z"
+        },
+        {
+          "id": "quiz_1782054433516_5",
+          "question": "\"microblog\" /ˈmaɪkroʊblɑːɡ/ 的中文释义是？",
+          "type": "meaning_choice",
+          "options": [
+            "浴缸，浴盆",
+            "拖着脚走，（笨拙或尴尬地）把脚动来动 去，坐立不安，洗（牌），打乱 n. 洗牌，拖着脚走，曳步舞",
+            "微博",
+            "减轻，慰藉物"
+          ],
+          "correctAnswer": "C",
+          "explanation": "microblog /ˈmaɪkroʊblɑːɡ/ n. 微博",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:07:13.516Z"
+        },
+        {
+          "id": "quiz_1782054433516_6",
+          "question": "填入合适的单词：\n\"We need to understand the ______ behind this theory.\"",
+          "type": "cloze",
+          "options": [
+            "slump",
+            "decay",
+            "metaphor",
+            "surrogate"
+          ],
+          "correctAnswer": "D",
+          "explanation": "surrogate /'sɜːrəɡət/ adj. 替代的，代用的 n. 代理人，代替，〈英〉（宗教法庭上）主教 代表，代用人物",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:07:13.516Z"
+        },
+        {
+          "id": "quiz_1782054433516_7",
+          "question": "下列哪个单词表示\"抱怨；埋怨；投诉；控告；（不严重的）疾 病\"？",
+          "type": "meaning_choice",
+          "options": [
+            "neurosurgeon",
+            "dysfunction",
+            "bottleneck",
+            "complaint"
+          ],
+          "correctAnswer": "D",
+          "explanation": "complaint /kəm'pleɪnt/ n. 抱怨；埋怨；投诉；控告；（不严重的）疾 病",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:07:13.517Z"
+        },
+        {
+          "id": "quiz_1782054433517_8",
+          "question": "\"spectrum\" /'spektrəm/ 的中文释义是？",
+          "type": "meaning_choice",
+          "options": [
+            "使用计算机的, 与计算机有关的",
+            "光谱，声谱，频谱；范围，幅度；系列，层 次",
+            "超过，胜过，超越，比…大（或重要等）",
+            "普遍的，通用的；全世界的，共同的 n. 普遍特征，普遍原则"
+          ],
+          "correctAnswer": "B",
+          "explanation": "spectrum /'spektrəm/ n. 光谱，声谱，频谱；范围，幅度；系列，层 次",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:07:13.517Z"
+        },
+        {
+          "id": "quiz_1782054433517_9",
+          "question": "填入合适的单词：\n\"The book discusses the ______ of modern society.\"",
+          "type": "cloze",
+          "options": [
+            "verbiage",
+            "unanimous",
+            "metaphor",
+            "hypnophobia"
+          ],
+          "correctAnswer": "A",
+          "explanation": "verbiage /'vɜːbiɪdʒ/ n. 冗词，赘语，晦涩",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:07:13.517Z"
+        }
+      ],
+      "createdAt": "2026-06-21T15:07:13.517Z",
+      "stats": {
+        "total": 10,
+        "mastered": 0,
+        "learning": 0,
+        "new": 10
+      },
+      "deleted": true
+    },
+    {
+      "id": "deck_1782054839096",
+      "userId": "default",
+      "title": "新的 Notebook 测验",
+      "cardType": "quiz",
+      "cards": [
+        {
+          "id": "quiz_1782054839094_0",
+          "question": "填入合适的单词：\n\"The book discusses the ______ of modern society.\"",
+          "type": "cloze",
+          "options": [
+            "dysfunction",
+            "caregiver",
+            "implication",
+            "shuffle"
+          ],
+          "correctAnswer": "A",
+          "explanation": "dysfunction /dɪs'fʌŋkʃn/ n. （身体）功能障碍, （社会、家庭等内部 的）关系失衡",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:13:59.094Z"
+        },
+        {
+          "id": "quiz_1782054839094_1",
+          "question": "下列哪个单词表示\"民意测验主办人，民意调查员\"？",
+          "type": "meaning_choice",
+          "options": [
+            "parameter",
+            "surrogate",
+            "dysfunction",
+            "pollster"
+          ],
+          "correctAnswer": "D",
+          "explanation": "pollster /'poʊlstər/ n. 民意测验主办人，民意调查员",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:13:59.094Z"
+        },
+        {
+          "id": "quiz_1782054839094_2",
+          "question": "\"infant\" /'ɪnfənt/ 的中文释义是？",
+          "type": "meaning_choice",
+          "options": [
+            "婴儿；幼儿 adj. 婴儿的；初期的",
+            "（身体）功能障碍, （社会、家庭等内部 的）关系失衡",
+            "处理器，加工机（或工人），处理机",
+            "象征，是…的象征，代表"
+          ],
+          "correctAnswer": "A",
+          "explanation": "infant /'ɪnfənt/ n. 婴儿；幼儿 adj. 婴儿的；初期的",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:13:59.094Z"
+        },
+        {
+          "id": "quiz_1782054839094_3",
+          "question": "填入合适的单词：\n\"The ______ solution worked perfectly for the problem.\"",
+          "type": "cloze",
+          "options": [
+            "lethality",
+            "metaphor",
+            "strip",
+            "political"
+          ],
+          "correctAnswer": "D",
+          "explanation": "political /pə'lɪtɪkl/ adj. 政治的；政党的，派系斗争的；有政治头 脑的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:13:59.094Z"
+        },
+        {
+          "id": "quiz_1782054839094_4",
+          "question": "下列哪个单词表示\"无生命的，死的，像已死的\"？",
+          "type": "meaning_choice",
+          "options": [
+            "surrogate",
+            "metaphor",
+            "inanimate",
+            "complaint"
+          ],
+          "correctAnswer": "C",
+          "explanation": "inanimate /ɪn'ænɪmət/ adj. 无生命的，死的，像已死的",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:13:59.094Z"
+        },
+        {
+          "id": "quiz_1782054839094_5",
+          "question": "\"microblog\" /ˈmaɪkroʊblɑːɡ/ 的中文释义是？",
+          "type": "meaning_choice",
+          "options": [
+            "处理；解决；清除；去掉；赠送；转让；出 售；排列；布置",
+            "政治的；政党的，派系斗争的；有政治头 脑的",
+            "[心]睡眠恐怖",
+            "微博"
+          ],
+          "correctAnswer": "D",
+          "explanation": "microblog /ˈmaɪkroʊblɑːɡ/ n. 微博",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:13:59.094Z"
+        },
+        {
+          "id": "quiz_1782054839094_6",
+          "question": "填入合适的单词：\n\"The book discusses the ______ of modern society.\"",
+          "type": "cloze",
+          "options": [
+            "concomitant",
+            "computational",
+            "surrogate",
+            "surveillance"
+          ],
+          "correctAnswer": "C",
+          "explanation": "surrogate /'sɜːrəɡət/ adj. 替代的，代用的 n. 代理人，代替，〈英〉（宗教法庭上）主教 代表，代用人物",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:13:59.094Z"
+        },
+        {
+          "id": "quiz_1782054839095_7",
+          "question": "下列哪个单词表示\"抱怨；埋怨；投诉；控告；（不严重的）疾 病\"？",
+          "type": "meaning_choice",
+          "options": [
+            "lethality",
+            "demolish",
+            "neuron",
+            "complaint"
+          ],
+          "correctAnswer": "D",
+          "explanation": "complaint /kəm'pleɪnt/ n. 抱怨；埋怨；投诉；控告；（不严重的）疾 病",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:13:59.095Z"
+        },
+        {
+          "id": "quiz_1782054839095_8",
+          "question": "\"spectrum\" /'spektrəm/ 的中文释义是？",
+          "type": "meaning_choice",
+          "options": [
+            "算术，算术运算，四则运算",
+            "替代的，代用的 n. 代理人，代替，〈英〉（宗教法庭上）主教 代表，代用人物",
+            "伴随的；同时发生或出现的 n. 同时发生的事，伴随（或相伴）的事物",
+            "光谱，声谱，频谱；范围，幅度；系列，层 次"
+          ],
+          "correctAnswer": "D",
+          "explanation": "spectrum /'spektrəm/ n. 光谱，声谱，频谱；范围，幅度；系列，层 次",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:13:59.095Z"
+        },
+        {
+          "id": "quiz_1782054839095_9",
+          "question": "填入合适的单词：\n\"The book discusses the ______ of modern society.\"",
+          "type": "cloze",
+          "options": [
+            "surrogate",
+            "strip",
+            "mobilize",
+            "verbiage"
+          ],
+          "correctAnswer": "D",
+          "explanation": "verbiage /'vɜːbiɪdʒ/ n. 冗词，赘语，晦涩",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:13:59.095Z"
+        }
+      ],
+      "createdAt": "2026-06-21T15:13:59.096Z",
+      "stats": {
+        "total": 10,
+        "mastered": 0,
+        "learning": 0,
+        "new": 10
+      }
+    },
+    {
+      "id": "deck_1782054861765",
+      "userId": "default",
+      "title": "新的 Notebook 测验 2",
+      "cardType": "quiz",
+      "cards": [
+        {
+          "id": "quiz_1782054861764_0",
+          "question": "填入合适的单词：\n\"His ______ was obvious to everyone in the room.\"",
+          "type": "cloze",
+          "options": [
+            "dysfunction",
+            "manure",
+            "parameter",
+            "bathtub"
+          ],
+          "correctAnswer": "A",
+          "explanation": "dysfunction /dɪs'fʌŋkʃn/ n. （身体）功能障碍, （社会、家庭等内部 的）关系失衡",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:14:21.764Z"
+        },
+        {
+          "id": "quiz_1782054861764_1",
+          "question": "下列哪个单词表示\"民意测验主办人，民意调查员\"？",
+          "type": "meaning_choice",
+          "options": [
+            "rigid",
+            "favorable",
+            "pollster",
+            "manure"
+          ],
+          "correctAnswer": "C",
+          "explanation": "pollster /'poʊlstər/ n. 民意测验主办人，民意调查员",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:14:21.764Z"
+        },
+        {
+          "id": "quiz_1782054861765_2",
+          "question": "\"infant\" /'ɪnfənt/ 的中文释义是？",
+          "type": "meaning_choice",
+          "options": [
+            "婴儿；幼儿 adj. 婴儿的；初期的",
+            "赞成的；有利的；顺利的；良好的；有望 的；偏袒的",
+            "伴随的；同时发生或出现的 n. 同时发生的事，伴随（或相伴）的事物",
+            "隐喻，暗喻"
+          ],
+          "correctAnswer": "A",
+          "explanation": "infant /'ɪnfənt/ n. 婴儿；幼儿 adj. 婴儿的；初期的",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:14:21.765Z"
+        },
+        {
+          "id": "quiz_1782054861765_3",
+          "question": "填入合适的单词：\n\"The ______ result surprised everyone in the room.\"",
+          "type": "cloze",
+          "options": [
+            "intimate",
+            "political",
+            "surrogate",
+            "bathtub"
+          ],
+          "correctAnswer": "B",
+          "explanation": "political /pə'lɪtɪkl/ adj. 政治的；政党的，派系斗争的；有政治头 脑的",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:14:21.765Z"
+        },
+        {
+          "id": "quiz_1782054861765_4",
+          "question": "下列哪个单词表示\"无生命的，死的，像已死的\"？",
+          "type": "meaning_choice",
+          "options": [
+            "alleviation",
+            "metaphor",
+            "inanimate",
+            "universal"
+          ],
+          "correctAnswer": "C",
+          "explanation": "inanimate /ɪn'ænɪmət/ adj. 无生命的，死的，像已死的",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:14:21.765Z"
+        },
+        {
+          "id": "quiz_1782054861765_5",
+          "question": "\"microblog\" /ˈmaɪkroʊblɑːɡ/ 的中文释义是？",
+          "type": "meaning_choice",
+          "options": [
+            "微博",
+            "扰乱，打乱，使中断",
+            "替代的，代用的 n. 代理人，代替，〈英〉（宗教法庭上）主教 代表，代用人物",
+            "婴儿；幼儿 adj. 婴儿的；初期的"
+          ],
+          "correctAnswer": "A",
+          "explanation": "microblog /ˈmaɪkroʊblɑːɡ/ n. 微博",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:14:21.765Z"
+        },
+        {
+          "id": "quiz_1782054861765_6",
+          "question": "填入合适的单词：\n\"She showed great ______ in dealing with the problem.\"",
+          "type": "cloze",
+          "options": [
+            "outstrip",
+            "inanimate",
+            "transmission",
+            "surrogate"
+          ],
+          "correctAnswer": "D",
+          "explanation": "surrogate /'sɜːrəɡət/ adj. 替代的，代用的 n. 代理人，代替，〈英〉（宗教法庭上）主教 代表，代用人物",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:14:21.765Z"
+        },
+        {
+          "id": "quiz_1782054861765_7",
+          "question": "下列哪个单词表示\"抱怨；埋怨；投诉；控告；（不严重的）疾 病\"？",
+          "type": "meaning_choice",
+          "options": [
+            "spectrum",
+            "surveillance",
+            "presence",
+            "complaint"
+          ],
+          "correctAnswer": "D",
+          "explanation": "complaint /kəm'pleɪnt/ n. 抱怨；埋怨；投诉；控告；（不严重的）疾 病",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:14:21.765Z"
+        },
+        {
+          "id": "quiz_1782054861765_8",
+          "question": "\"spectrum\" /'spektrəm/ 的中文释义是？",
+          "type": "meaning_choice",
+          "options": [
+            "严格死板的，僵硬的，固执的，僵化的",
+            "致死现象, 杀伤性, 死亡率",
+            "微博",
+            "光谱，声谱，频谱；范围，幅度；系列，层 次"
+          ],
+          "correctAnswer": "D",
+          "explanation": "spectrum /'spektrəm/ n. 光谱，声谱，频谱；范围，幅度；系列，层 次",
+          "tags": [],
+          "difficulty": "easy",
+          "createdAt": "2026-06-21T15:14:21.765Z"
+        },
+        {
+          "id": "quiz_1782054861765_9",
+          "question": "填入合适的单词：\n\"His ______ was obvious to everyone in the room.\"",
+          "type": "cloze",
+          "options": [
+            "verbiage",
+            "mobilize",
+            "rinse",
+            "slump"
+          ],
+          "correctAnswer": "A",
+          "explanation": "verbiage /'vɜːbiɪdʒ/ n. 冗词，赘语，晦涩",
+          "tags": [],
+          "difficulty": "medium",
+          "createdAt": "2026-06-21T15:14:21.765Z"
+        }
+      ],
+      "createdAt": "2026-06-21T15:14:21.765Z",
+      "stats": {
+        "total": 10,
+        "mastered": 0,
+        "learning": 0,
+        "new": 10
+      }
+    }
+  ]
+}
